@@ -1,0 +1,2 @@
+# Kering_ripo
+MIT
